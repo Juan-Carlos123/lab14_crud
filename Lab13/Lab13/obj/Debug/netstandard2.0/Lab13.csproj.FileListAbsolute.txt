@@ -1,0 +1,17 @@
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\obj\Debug\netstandard2.0\Lab13.csprojAssemblyReference.cache
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\obj\Debug\netstandard2.0\Views\AlbumesPage.xaml.g.cs
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\obj\Debug\netstandard2.0\Views\AlbumPage.xaml.g.cs
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\obj\Debug\netstandard2.0\Lab13.AssemblyInfoInputs.cache
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\obj\Debug\netstandard2.0\Lab13.AssemblyInfo.cs
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\obj\Debug\netstandard2.0\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\obj\Debug\netstandard2.0\Lab13.dll
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\obj\Debug\netstandard2.0\ref\Lab13.dll
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\obj\Debug\netstandard2.0\Lab13.pdb
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\bin\Debug\netstandard2.0\Lab13.deps.json
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\bin\Debug\netstandard2.0\Lab13.dll
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\bin\Debug\netstandard2.0\ref\Lab13.dll
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\bin\Debug\netstandard2.0\Lab13.pdb
+C:\Users\Juan Carlos\source\repos\Lab13\Lab13\Lab13\obj\Debug\netstandard2.0\XamlC.stamp
